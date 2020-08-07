@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "\"Node practise 1\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aishwarya2k7/Node.git"
+  },
+  "author": "AishwaryaI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aishwarya2k7/Node/issues"
+  },
+  "homepage": "https://github.com/Aishwarya2k7/Node#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.11"
+  }
+}
